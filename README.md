@@ -1,2 +1,2 @@
-*DataCleaningProject
+#DataCleaningProject
 Проект по очистке данных
